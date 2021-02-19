@@ -1,0 +1,6 @@
+# Ignore everything except specified directories
+/*
+!/overrides
+!.gitattributes
+!.gitignore
+!manifest.json
