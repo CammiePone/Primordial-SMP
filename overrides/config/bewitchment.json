@@ -37,14 +37,14 @@
   "ghostWeight": 8,
   "ghostMinGroupCount": 1,
   "ghostMaxGroupCount": 1,
-  "hellhoundWeight": 6,
-  "hellhoundMinGroupCount": 1,
-  "hellhoundMaxGroupCount": 1,
   "vampireWeight": 10,
   "vampireMinGroupCount": 1,
   "vampireMaxGroupCount": 1,
   "werewolfWeight": 10,
   "werewolfMinGroupCount": 1,
   "werewolfMaxGroupCount": 1,
+  "hellhoundWeight": 6,
+  "hellhoundMinGroupCount": 1,
+  "hellhoundMaxGroupCount": 1,
   "doDemonTradesRefresh": true
 }
