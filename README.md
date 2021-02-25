@@ -57,7 +57,6 @@
 
 ### G:
 - Geckolib
-- Grid
 
 ### H:
 - Held Item Info
