@@ -1,6 +1,6 @@
-##Mods
+# Mods
 
-#A:
+### A:
 - Amecs
 - Angerable Patch
 - Anthropophagy
@@ -10,7 +10,7 @@
 - Artifacts
 - Auth Me
 
-#B:
+### B:
 - Battle Towers
 - Bedspreads
 - Better Enchanted Books
@@ -18,7 +18,7 @@
 - Biome Makeover
 - Blockus
 
-#C:
+### C:
 - Cammie’s Wearable Backpacks
 - Camp Fires Cook Mobs
 - Carve My Pumpkin
@@ -38,50 +38,50 @@
 - CraftPresence
 - Curios API
 
-D:
+### D:
 - Damage Threshold
 - Dark Loading Screen
 - Dracomelette
 - Drogtor The Nickinator
 - Dynamic Sound Filters
 
-E:
+### E:
 - Ecotones
 - Extra Alchemy
 - Extra Origins
 
-F:
+### F:
 - Fabric Language Scala
 - Fabrication
 - FallingTree
 - FastFurnace
 
-G:
+### G:
 - Geckolib
 - Grid
 
-H:
+### H:
 - Held Item Info
 - Here be no Dragons!
 - Hookshot
 - Horse Stats Vanilla
 
-I:
+### I:
 - Illuminations
 - Immersive Portals
 - Impersonate
 - Inventory Sorter
 - Invisible Frames
 
-K:
+### K:
 - Krypton
 
-L:
+### L:
 - LambDynamicLights
 - LazyDFU
 - Lithium
 
-M:
+### M:
 - Maelstrom Library
 - MAmbience
 - MinimalMenu
@@ -92,26 +92,26 @@ M:
 - Modify Drops API
 - Mojank Logo
 
-N:
+### N:
 - Netherite Horse Armor
 - No More Glowing Pots
 - No Player Labels
 - Nomad Books
 - Not Enough Crashes
 
-O:
+### O:
 - Ok Zoomer
 - On Soul Fire
 - Origins
 - Origins: Classes
 
-P:
+### P:
 - ParadoxSlabs
 - Patchouli
 - Pling
 - Pride Lib
 
-R:
+### R:
 - Rare Ice
 - Rat’s Mischief
 - Realistic Fire Spread
@@ -122,7 +122,7 @@ R:
 - Roughly Enough Items
 - Roughly Enough Resources
 
-S:
+### S:
 - Screenshot to Clipboard
 - Shulker Box Tooltip
 - Small Endermen
@@ -135,23 +135,23 @@ S:
 - Step Height Entity Attribute
 - Straw Dummy
 
-T:
+### T:
 - Terrestria
 - Tom’s Simple Storage Mod
 - Traverse
 - Trinkets
 - True Darkness
 
-V:
+### V:
 - Vanguard
 - VehicleFix
 - Vertical Redstone
 - Voyager
 
-W:
+### W:
 - Where Is It
 
-Y:
+### Y:
 - YUNG’s API
 - YUNG’s Better Caves
 - YUNG’s Better Mineshafts
