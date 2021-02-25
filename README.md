@@ -46,7 +46,6 @@
 - Dynamic Sound Filters
 
 ### E:
-- Ecotones
 - Extra Alchemy
 - Extra Origins
 
@@ -68,7 +67,6 @@
 
 ### I:
 - Illuminations
-- Immersive Portals
 - Impersonate
 - Inventory Sorter
 - Invisible Frames
@@ -100,6 +98,7 @@
 - Not Enough Crashes
 
 ### O:
+- Oh The Biomes You'll Go
 - Ok Zoomer
 - On Soul Fire
 - Origins
@@ -125,6 +124,7 @@
 ### S:
 - Screenshot to Clipboard
 - Shulker Box Tooltip
+- Simple Voice Chat
 - Small Endermen
 - Smooth Scrolling Everywhere
 - Snow Mercy
