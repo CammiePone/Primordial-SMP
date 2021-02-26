@@ -1,0 +1,29 @@
+{
+	"basic_materials:bauxite_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:cinnabar_ore": {
+		"generation_disabled": false
+	},
+	"basic_materials:copper_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:lead_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:nickel_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:platinum_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:silver_ore": {
+		"generation_disabled": false
+	},
+	"basic_materials:tin_ore": {
+		"generation_disabled": true
+	},
+	"basic_materials:zinc_ore": {
+		"generation_disabled": true
+	}
+}
