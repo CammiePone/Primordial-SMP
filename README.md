@@ -46,6 +46,7 @@
 - Dynamic Sound Filters
 
 ### E:
+- Enhanced Celestials
 - Extra Alchemy
 - Extra Origins
 
@@ -102,6 +103,7 @@
 - On Soul Fire
 - Origins
 - Origins: Classes
+- Overworld Two
 
 ### P:
 - ParadoxSlabs
@@ -140,6 +142,9 @@
 - Traverse
 - Trinkets
 - True Darkness
+
+### U:
+- Upstream
 
 ### V:
 - Vanguard
