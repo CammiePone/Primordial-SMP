@@ -5,6 +5,7 @@
   "enableRings": true,
   "enableBrewingStandFire": true,
   "useAnchorChargesWithReturnPotion": true,
+  "allowRingsInInventoryWithCurios": false,
   "potions": {
     "magnetism": true,
     "photosynthesis": true,
